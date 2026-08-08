@@ -70,7 +70,7 @@ I'm a Software Engineering student at **1337 Coding School** (42 Network — UM6
 | **Bus Ticketing Platform** — Ejahiz | Booking management, seat-availability tracking, payment monitoring, and administrative features in a responsive web application | PHP, Laravel, MySQL, Tailwind CSS, JavaScript |
 | **E-commerce Platform** — EST Graduation Project | A complete solo project with product catalogue, shopping cart, authentication, order management, and an admin panel | PHP, Laravel, MySQL, HTML, CSS, JavaScript |
 
-## GitHub activity
+/*## GitHub activity
 
 <div align="center">
 
@@ -85,4 +85,4 @@ I'm a Software Engineering student at **1337 Coding School** (42 Network — UM6
   <img alt="Hafsa's most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-techno&layout=compact&hide_border=true&theme=default" height="165">
 </picture>
 
-</div>
+</div>*/
