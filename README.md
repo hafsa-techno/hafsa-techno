@@ -1,13 +1,27 @@
 <div align="center">
 
+<a href="https://1337.ma/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/1337-logo-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/1337-logo.png">
+    <img src="./assets/1337-logo.png" alt="1337 Coding School" height="64">
+  </picture>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://42.fr/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/42-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/42-logo-light.svg">
+    <img src="./assets/42-logo-light.svg" alt="42 Network" height="64">
+  </picture>
+</a>
+
 # Hi, I'm Hafsa Idsaid 👋
 
 ### Full-Stack Web Developer · Software Engineering Student
 
 I build practical web applications with **PHP, Laravel, JavaScript, and MySQL**.
 
-[![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge)](mailto:hafsaidsaid.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hafsa--techno-181717?style=for-the-badge&logo=github)](https://github.com/hafsa-techno)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsaidsaid.dev@gmail.com)
 
 </div>
@@ -19,7 +33,6 @@ I'm a Software Engineering student at **1337 Coding School** (42 Network — UM6
 - 🔭 Building full-stack web applications and strengthening my software engineering foundations
 - 🌱 Currently learning **React.js** and expanding my modern frontend skills
 - 💡 Interested in backend development, clean architecture, and real-world product development
-- 🤝 Open to **software development internships** and remote opportunities
 - 💬 Ask me about **PHP, Laravel, JavaScript, MySQL, or the 42 learning experience**
 - 🌍 Arabic (native), French and English (professional)
 
@@ -71,15 +84,5 @@ I'm a Software Engineering student at **1337 Coding School** (42 Network — UM6
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-techno&layout=compact&hide_border=true&theme=default">
   <img alt="Hafsa's most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa-techno&layout=compact&hide_border=true&theme=default" height="165">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something useful together
-
-[Email me](mailto:hafsaidsaid.dev@gmail.com) · [Explore my repositories](https://github.com/hafsa-techno?tab=repositories)
 
 </div>
