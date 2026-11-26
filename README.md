@@ -67,8 +67,8 @@ I'm a Software Engineering student at **1337 Coding School** (42 Network — UM6
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
-| **Bus Ticketing Platform** — Ejahiz | Booking management, seat-availability tracking, payment monitoring, and administrative features in a responsive web application | PHP, Laravel, MySQL, Tailwind CSS, JavaScript |
-| **E-commerce Platform** — EST Graduation Project | A complete solo project with product catalogue, shopping cart, authentication, order management, and an admin panel | PHP, Laravel, MySQL, HTML, CSS, JavaScript |
+| **Bus Ticketing Platform**| Booking management, seat-availability tracking, payment monitoring, and administrative features in a responsive web application | PHP, Laravel, MySQL, Tailwind CSS, JavaScript |
+| **E-commerce Platform**| A complete solo project with product catalogue, shopping cart, authentication, order management, and an admin panel | PHP, Laravel, MySQL, HTML, CSS, JavaScript |
 
 <!-- ## GitHub activity
 
